@@ -6,12 +6,12 @@
 ---
 spring:
   profiles: dev #开发环境
-    application: 
-      name: microservicecloud-config-chengchenit-dev
+  application: 
+    name: microservicecloud-config-chengchenit-dev
 
 ---
 spring:
   profiles: test #测试环境
-    application:
-      name: microservicecloud-config-chengchenit-test
+  application:
+    name: microservicecloud-config-chengchenit-test
 # 请保存为UTF-8格式 
