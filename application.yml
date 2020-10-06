@@ -6,8 +6,8 @@
 ---
 spring:
   profiles: dev #开发环境
-  application: 
-    name: microservicecloud-config-chengchenit-dev
+    application: 
+      name: microservicecloud-config-chengchenit-dev
 
 ---
 spring:
