@@ -1,4 +1,4 @@
-spring:
+ï»¿spring:
   profiles:
     active:
     - dev
@@ -29,7 +29,7 @@ mybatis:
     
     
 eureka:
-  client: #¿Í»§¶Ë×¢²áÊ±¿Õeureka·şÎñÁĞ±íÄÚ
+  client: #å®¢æˆ·ç«¯æ³¨å†Œæ—¶ç©ºeurekaæœåŠ¡åˆ—è¡¨å†…
     service-url:
       defaultZone: http://eurek7001.com:7001/eureka/
   instance:
@@ -69,7 +69,7 @@ mybatis:
     
     
 eureka:
-  client: #¿Í»§¶Ë×¢²áÊ±¿Õeureka·şÎñÁĞ±íÄÚ
+  client: #å®¢æˆ·ç«¯æ³¨å†Œæ—¶ç©ºeurekaæœåŠ¡åˆ—è¡¨å†…
     service-url:
       defaultZone: http://eurek7001.com:7001/eureka/
   instance:
