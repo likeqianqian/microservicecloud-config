@@ -31,7 +31,7 @@ mybatis:
 eureka:
   client: #客户端注册时空eureka服务列表内
     service-url:
-      defaultZone: http://eurek7001.com:7001/eureka/
+      defaultZone: http://eureka7001.com:7001/eureka/
   instance:
     instance-id: dept-8001.com
     prefer-ip-address: true
@@ -71,7 +71,7 @@ mybatis:
 eureka:
   client: #客户端注册时空eureka服务列表内
     service-url:
-      defaultZone: http://eurek7001.com:7001/eureka/
+      defaultZone: http://eureka7001.com:7001/eureka/
   instance:
     instance-id: dept-8001.com
     prefer-ip-address: true
